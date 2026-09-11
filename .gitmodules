@@ -1,0 +1,3 @@
+[submodule "Wakefit-FG-Label-Generation-Server"]
+	path = Wakefit-FG-Label-Generation-Server
+	url = https://github.com/uaim-tech/Wakefit-FG-Label-Generation-Server.git
